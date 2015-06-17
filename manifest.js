@@ -781,14 +781,14 @@ manifest = {
                             "hotspot": [43, 75, 894, 846],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["POSSIBLE ANSWERS: ", "B – A man is trying to cut into the queue, upsetting the people who are standing in the queue. ", "E – The man on the right is speaking but not making eye contact with the other man. ", "C – The man on the right is thinking and has probably not finished expressing his idea. The man on the left is probably so uncomfortable with the silence that he has to talk. ", "A – The man behind the man on the left is too close to him, invading his space and making him uncomfortable. ", "F – The visitors are very late. We can tell because the host is holding up his wristwatch and he’s probably in the process of having dinner, since he’s holding a napkin. ", "D – The man has unnecessarily brought a very expensive gift."]
+                                "content": ["B – A man is trying to cut into the queue, upsetting the people who are standing in the queue.", "E – The man on the right is speaking but not making eye contact with the other man.", "C – The man on the right is thinking and has probably not finished expressing his idea. The man on the left is probably so uncomfortable with the silence that he has to talk.", "A – The man behind the man on the left is too close to him, invading his space and making him uncomfortable.", "F – The visitors are very late. We can tell because the host is holding up his wristwatch and he’s probably in the process of having dinner, since he’s holding a napkin.", "D – The man has unnecessarily brought a very expensive gift."]
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U4_ACT02",
                             "hotspot": [36, 848, 891, 1154],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["Vancouver", "San Francisco", "New York", "", "Claudia López: possibly a housewife, six months, In Canada. it gets very cold in the winter.", "Sammi Haddad: The Lebanon, since 1999, The language, because Americans talk too fast.", "Boris Tereschenko: Russia, computer science student, one year"]
+                                "content": ["Vancouver", "San Francisco", "New York", "Claudia López: possibly a housewife, six months, In Canada. it gets very cold in the winter.", "Sammi Haddad: The Lebanon, since 1999, The language, because Americans talk too fast.", "Boris Tereschenko: Russia, computer science student, one year"]
                             }, {
                                 "type": "audio",
                                 "file": "audio/FHSA_PB_L1_U4_016.mp3"
@@ -798,22 +798,31 @@ manifest = {
                             "hotspot": [1028, 83, 1803, 323],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["moved ", "have lived ", "applied ", "have worked", "did not learn ", "has taken ", "have made", "", "", "", "", "the past simple ", "the present perfect ", "ago: past simple, since: present perfect, last: past simple, for: present perfect", "", "", "", "", "already ", "yet ", "Yet isn’t used in affirmative sentences. Already isn’t used in negative sentences.", "In statements, yet goes at the end of the sentence, already goes after the auxiliary have. In questions, we put them both at the end of the sentence. ", "Students’ own answers.", "", "", "", "", "have you lived ", "For ", "moved ", "haven’t paid", "yet ", "paid ", "ago ", "have / ’ve painted ", "have / ’ve already painted ", "Has … arrived ", "yet ", "has been ", "since"]
+                                "content": ["moved", "have lived", "applied", "have worked", "did not learn", "has taken", "have made"]
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U4_ACT07",
                             "hotspot": [1023, 949, 1699, 1119],
                             "assets": []
                         }, {
-                            "assets": [],
+                            "assets": [{
+                                "type": "answers",
+                                "content": ["the past simple", "the present perfect", "ago: past simple, since: present perfect, last: past simple, for: present perfect"]
+                            }],
                             "hotspot": [1034, 320, 1420, 547],
                             "id": "FHSA_PB_L1_U4_ACT04"
                         }, {
-                            "assets": [],
+                            "assets": [{
+                                "type": "answers",
+                                "content": ["already", "yet", "Yet isn’t used in affirmative sentences. Already isn’t used in negative sentences.", "In statements, yet goes at the end of the sentence, already goes after the auxiliary have. In questions, we put them both at the end of the sentence.", "Students’ own answers."]
+                            }],
                             "hotspot": [1032, 550, 1435, 933],
                             "id": "FHSA_PB_L1_U4_ACT05"
                         }, {
-                            "assets": [],
+                            "assets": [{
+                                "type": "answers",
+                                "content": ["have you lived", "For", "moved", "haven’t paid yet", "paid", "ago", "have / ’ve painted", "have / ’ve already painted", "Has … arrived", "yet", "has been", "since"]
+                            }],
                             "hotspot": [1432, 323, 1804, 935],
                             "id": "FHSA_PB_L1_U4_ACT06"
                         }],
@@ -1213,7 +1222,7 @@ manifest = {
                             "hotspot": [1006, 66, 1816, 430],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["Clockwise: automatic check-out, bank card, receipt, bar code, shopping basket; (centre) screen.", "", "", "receipt ", "bank card ", "bar code ", "shopping basket ", "screen ", "automatic check-out"]
+                                "content": ["Clockwise: automatic check-out, bank card, receipt, bar code, shopping basket; (centre) screen.", "receipt ", "bank card", "bar code", "shopping basket", "screen", "automatic check-out"]
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U5_ACT04",
