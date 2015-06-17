@@ -46,8 +46,7 @@ manifest = {
                                 "content": ["/d/: involved, lived, changed, moved, played, studied", "/t/: worked, liked", "/ɪd/: started, decided, converted, wanted"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U1_001.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U1_001.mp3"
                             }, {
                                 "type": "audio",
                                 "file": "audio/FHSA_PB_L1_U1_002.mp3"
@@ -76,15 +75,14 @@ manifest = {
                                 "content": ["He was tending the goats. ", "They were carrying cutlasses. ", "He felt very frightened and he was shaking all over.", "He climbed a tree. ", "They dismounted their horses and the leader stood in front of the mountainside and said, ‘Open Sesame’. Then they walked inside the mountain."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U1_003.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U1_003.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U1_ACT03",
                             "hotspot": [64, 400, 866, 608],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["Sami called his father when he saw the robber. – Sami saw a robber. Then he called his father ", "Sami was calling his father when he saw the robber. – Sami called his father. Then he saw a robber", "", "Sentence 2"]
+                                "content": ["Sami called his father when he saw the robber. – Sami saw a robber. Then he called his father.", "Sami was calling his father when he saw the robber. – Sami called his father. Then he saw a robber.", "Sentence 2"]
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U1_ACT04",
@@ -118,8 +116,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U1_003.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U1_003.mp3"
                         }]
                     },
                     "3": {
@@ -189,8 +186,7 @@ manifest = {
                                 "content": ["Now: the photo on the left, by bike."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U1_004.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U1_004.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U1_ACT11",
@@ -200,8 +196,7 @@ manifest = {
                                 "content": ["work in an office", "not like working", "drive a car to work", "work ten hours"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U1_004.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U1_004.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U1_ACT12",
@@ -210,8 +205,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U1_004.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U1_004.mp3"
                         }]
                     },
                     "4": {
@@ -234,8 +228,7 @@ manifest = {
                                 "content": ["Dima’s grandfather", "Age: 65", "Childhood: difficult/studied hard/played football", "Job: bank worker / manager", "Daily Activities: mosque, reads poetry and history books", "", "Asma’s grandfather", "Age: 70", "Childhood: did horseriding", "Job: maths teacher", "Daily Activities: mosque, walking around town"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U1_005.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U1_005.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U1_ACT03",
@@ -251,8 +244,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U1_005.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U1_005.mp3"
                         }]
                     }
                 }
@@ -270,7 +262,7 @@ manifest = {
                             "hotspot": [49, 253, 889, 1132],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["POSSIBLE ANSWERS: Topic: the different lifestyles of three generations of a family", "", "Some possible summary statements:", "The article follows the change in lifestyles across three generations of a family.", "The text shows how lifestyles have changed during the last three generations of a Bedouin family.", "The text tracks three generations of a Bedouin family and how their lifestyles have changed with the times.", ""]
+                                "content": ["The article follows the change in lifestyles across three generations of a family.", "The text shows how lifestyles have changed during the last three generations of a Bedouin family.", "The text tracks three generations of a Bedouin family and how their lifestyles have changed with the times."]
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U2_ACT02",
@@ -287,8 +279,7 @@ manifest = {
                                 "content": ["Fahad is talking to his father. ", "They’re talking about Fahad’s exciting news – that he wants to get married."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U2_006.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U2_006.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U2_ACT04",
@@ -298,8 +289,7 @@ manifest = {
                                 "content": ["In March, Fahad and his father are going to meet Reema’s family to discuss the engagement and the wedding.", "In April, Fahad and Reema hope to get married. ", "In June, Fahad finishes his Ph.D. ", "In July, Fahad moves to Jeddah.", "On Friday, Fahad is coming home to see his father."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U2_006.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U2_006.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U2_ACT05",
@@ -308,8 +298,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U2_006.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U2_006.mp3"
                         }]
                     },
                     "6": {
@@ -340,7 +329,7 @@ manifest = {
                             "hotspot": [477, 934, 874, 1143],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["POSSIBLE ANSWERS: ", "Football is exciting. I think football is exciting.", "I’m irritated by clothes shopping. I don’t think clothes shopping is fun, I think it’s irritating.", "Dark nights are frightening. I’m not frightened by dark nights.", "Having a vacation is exciting. Vacations are not interesting at all."]
+                                "content": ["Football is exciting.", "I think football is exciting.", "I’m irritated by clothes shopping.", "I don’t think clothes shopping is fun, I think it’s irritating.", "Dark nights are frightening.", "I’m not frightened by dark nights.", "Having a vacation is exciting.", "Vacations are not interesting at all."]
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U2_ACT05",
@@ -364,8 +353,7 @@ manifest = {
                                 "content": ["We’re going to study tomorrow night.", "I’ll call you tomorrow.", "He is leaving for New York tomorrow."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U2_007.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U2_007.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U2_ACT08",
@@ -426,8 +414,7 @@ manifest = {
                                 "content": ["F Carl doesn’t want to look at old cars ", "T Dennis doesn’t want to go to the beach. ", "F He says that lying on the beach is boring. ", "T Dennis refers to the game as ‘big’ and Carl says it’s ‘the biggest game of the year.’ ", "T Dennis proposed going out to dinner and Carl said it was a good idea. Tom didn’t disagree. ", "F Dennis said that they could try the restaurant. ", "F The restaurant is near the park."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U2_008.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U2_008.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U2_ACT08",
@@ -436,8 +423,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U2_008.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U2_008.mp3"
                         }]
                     },
                     "8": {
@@ -468,7 +454,7 @@ manifest = {
                             "hotspot": [538, 1000, 858, 1171],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["POSSIBLE ANSWERS", "will definitely do tomorrow: pray / get ready for work", "won’t do tomorrow: have a meeting / see his parents", "might do tomorrow: mark homework / prepare lessons", "will probably do tomorrow: prepare lessons"]
+                                "content": ["will definitely do tomorrow: pray / get ready for work", "won’t do tomorrow: have a meeting / see his parents", "might do tomorrow: mark homework / prepare lessons", "will probably do tomorrow: prepare lessons"]
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U2_ACT05",
@@ -479,11 +465,10 @@ manifest = {
                             "hotspot": [991, 571, 1523, 1129],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["Top left Amjad ", "Top right Dunya", "Bottom left Hiba ", "Bottom right Kamal"]
+                                "content": ["Top left: Amjad", "Top right: Dunya", "Bottom left: Hiba", "Bottom right: Kamal"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U2_009.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U2_009.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U2_ACT07",
@@ -492,8 +477,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U2_009.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U2_009.mp3"
                         }]
                     }
                 }
@@ -535,8 +519,7 @@ manifest = {
                                 "content": ["Dr Allen prefers wind, hydro-electric, geo-thermal, and solar power because they are safe, clean and renewable"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U3_010.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U3_010.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U3_ACT05",
@@ -546,8 +529,7 @@ manifest = {
                                 "content": ["Fossil-fuel energy is dirty, and it isn’t renewable.", "Nuclear energy is expensive, and it can be dangerous."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U3_011.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U3_011.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U3_ACT06",
@@ -564,8 +546,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U3_010.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U3_010.mp3"
                         }, {
                             "type": "audio",
                             "file": "audio/FHSA_PB_L1_U3_011.mp3"
@@ -625,8 +606,7 @@ manifest = {
                                 "content": ["Body functions take up the most energy, followed by physical activity and digesting food."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U3_012.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U3_012.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U3_ACT03",
@@ -636,8 +616,7 @@ manifest = {
                                 "content": ["a) Body functions take up 60 to 70%.; b) Physical activity takes up 20 to 30%.; c) Eating and digestion take up about 10 to 20%. ", "Our energy comes mainly from calories, which we get from different types of food."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U3_012.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U3_012.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U3_ACT04",
@@ -682,8 +661,7 @@ manifest = {
                                 "content": ["If you <u>don’t</u> get up <u>early</u>, you’ll be <u>late</u> for work.", "You’ll be <u>fit</u> if you <u>exercise</u>.", "I’ll <u>call</u> you if I can <u>go</u> to the <u>football match.</u>", "We <u>won’t</u> arrive on <u>time</u> if we <u>don’t</u> leave <u>now.</u>"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U3_013.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U3_013.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U3_ACT10",
@@ -692,8 +670,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U3_012.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U3_012.mp3"
                         }]
                     },
                     "12": {
@@ -720,8 +697,7 @@ manifest = {
                                 "content": ["TOP R: Half of your daily calories should come from carbohydrates because they are the base of a good diet and they give you energy.", "BOTTOM R: Eat a small amount of fat every day, because it gives you energy, helps repair tissues, and transports vitamins and minerals through the body.", "TOP L: Eat more, in general. Increase your carbohydrates and add a little more fat to your diet. Finally, exercise a little every day to help you build muscle tissue.", "BOTTOM L: Eat lots of carbohydrates and high phosphorus foods like bananas. Drink a lot of water and don’t over-train."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U3_014.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U3_014.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U3_ACT04",
@@ -734,8 +710,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U3_014.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U3_014.mp3"
                         }]
                     }
                 }
@@ -764,7 +739,7 @@ manifest = {
                             "hotspot": [995, 80, 1830, 364],
                             "assets": [{
                                 "type": "answers",
-                                "content": ["POSSIBLE ANSWERS: ", "positive: peaceful, secluded, hectic, calm, unspoiled", "neutral: bustling, historic, entertaining", "negative: noisy, crowded, isolated, dull, boring, industrial, polluted, deserted, inhospitable"]
+                                "content": ["positive: peaceful, secluded, hectic, calm, unspoiled", "neutral: bustling, historic, entertaining", "negative: noisy, crowded, isolated, dull, boring, industrial, polluted, deserted, inhospitable"]
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U4_ACT04",
@@ -774,8 +749,7 @@ manifest = {
                                 "content": ["Kuwait", "near Tabuk", "Jeddah", "Jizan", "Riyadh"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U4_015.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U4_015.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U4_ACT05",
@@ -785,8 +759,7 @@ manifest = {
                                 "content": ["Reason for moving: won a scholarship to KAUST; Words used to describe town/area: bustling, busy", "Reason for moving: got a job with a finance company; Words used to describe town/area: busy, crowded ", "Reason for moving: to be near to wife’s family; Words used to describe town/area: historic, cheap", "Reason for moving: to monitor and preserve the coral reefs/to work for a conservation group; Words used to describe town/area: beautiful, quiet, isolated", "Reason for moving: to accompany her husband who moved to get a job; Words used to describe town/area: well-planned, lots of facilities, friendly"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U4_015.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U4_015.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U4_ACT06",
@@ -795,8 +768,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U4_015.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U4_015.mp3"
                         }]
                     },
                     "14": {
@@ -819,8 +791,7 @@ manifest = {
                                 "content": ["Vancouver", "San Francisco", "New York", "", "Claudia López: possibly a housewife, six months, In Canada. it gets very cold in the winter.", "Sammi Haddad: The Lebanon, since 1999, The language, because Americans talk too fast.", "Boris Tereschenko: Russia, computer science student, one year"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U4_016.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U4_016.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U4_ACT03",
@@ -848,8 +819,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U4_016.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U4_016.mp3"
                         }]
                     },
                     "15": {
@@ -865,8 +835,7 @@ manifest = {
                                 "content": ["Omar prefers small towns.", "Adel prefers big cities."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U4_017.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U4_017.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U4_ACT02",
@@ -883,8 +852,7 @@ manifest = {
                                 "content": ["oOo: department, museum ", "Oo: children, peaceful, airport ", "Ooo: wonderful, restaurant, gallery, cultural"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U4_018.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U4_018.mp3"
                             }, {
                                 "type": "audio",
                                 "file": "audio/FHSA_PB_L1_U4_019.mp3"
@@ -917,8 +885,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U4_017.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U4_017.mp3"
                         }]
                     },
                     "16": {
@@ -934,8 +901,7 @@ manifest = {
                                 "content": ["Top: Mousa", "Second down: Maryam", "Third down: Samer", "Bottom: Rasha"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U4_020.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U4_020.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U4_ACT02",
@@ -994,8 +960,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U4_020.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U4_020.mp3"
                         }]
                     }
                 }
@@ -1059,8 +1024,7 @@ manifest = {
                                 "content": ["library ", "next Thursday ", "history project", "his aunt ", "once / one time ", "family ", "Wednesday", "four thirty / 4.30"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_PT1_021.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_PT1_021.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_PT1_ACT03",
@@ -1069,8 +1033,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_PT1_021.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_PT1_021.mp3"
                         }]
                     }
                 }
@@ -1150,8 +1113,7 @@ manifest = {
                                 "content": ["advised ", "prevent ", "allow ", "encourage"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U5_022.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U5_022.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U5_ACT05",
@@ -1180,8 +1142,7 @@ manifest = {
                                 "content": ["F The word salary comes from the Latin word for salt, salarium. ", "F It means he isn’t worth his salary so he doesn’t work very well."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U5_023.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U5_023.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U5_ACT03",
@@ -1225,8 +1186,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U5_023.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U5_023.mp3"
                         }]
                     },
                     "22": {
@@ -1263,8 +1223,7 @@ manifest = {
                                 "content": ["Put the shopping basket on the small table.", "Hold each item over the scanner. ", "Touch the screen to pay.", "Decide if you want to pay by card or not. ", "Take your receipt from the machine. ", "Don’t forget to take your shopping."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U5_024.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U5_024.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U5_ACT05",
@@ -1294,8 +1253,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U5_024.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U5_024.mp3"
                         }]
                     }
                 }
@@ -1323,8 +1281,7 @@ manifest = {
                                 "content": ["presents, clothes, praying, food, charity"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U6_025.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U6_025.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U6_ACT03",
@@ -1334,8 +1291,7 @@ manifest = {
                                 "content": ["presents ", "clothes ", "money ", "public holiday", "prayers; meal"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U6_025.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U6_025.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U6_ACT04",
@@ -1369,8 +1325,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U6_025.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U6_025.mp3"
                         }]
                     },
                     "24": {
@@ -1440,8 +1395,7 @@ manifest = {
                                 "content": ["Saudi Arabia ", "Because Richard is travelling to Saudi Arabia next month and Abdullah is from there."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U6_026.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U6_026.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U6_ACT02",
@@ -1451,8 +1405,7 @@ manifest = {
                                 "content": ["Language: different ", "Driving: same ", "Food: fast food is the same, but the traditional food is different", "Weather: different ", "People: same, both friendly"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U6_026.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U6_026.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U6_ACT03",
@@ -1483,8 +1436,7 @@ manifest = {
                                 "content": ["To is said with a reduced, or unstressed vowel, so the sound is ‘softer’ than a full, stressed vowel: /tә/."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U6_027.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U6_027.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U6_ACT07",
@@ -1500,8 +1452,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U6_026.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U6_026.mp3"
                         }]
                     },
                     "26": {
@@ -1517,8 +1468,7 @@ manifest = {
                                 "content": ["T ", "F ", "F ", "T ", "T"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U6_028.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U6_028.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U6_ACT02",
@@ -1542,8 +1492,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U6_028.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U6_028.mp3"
                         }]
                     }
                 }
@@ -1569,8 +1518,7 @@ manifest = {
                             "hotspot": [997, 338, 1391, 549],
                             "assets": [{
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U7_029.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U7_029.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U7_ACT04",
@@ -1580,8 +1528,7 @@ manifest = {
                                 "content": ["It isn’t necessary to exercise for a long time or every day. ", "If you exercise three times a week, you can stay in shape. ", "You should always warm up before you do heavy exercise. ", "It isn’t a good idea to have drinks with caffeine before exercise because they increase your blood pressure.", "I think __________. ", "In my opinion, ___________."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U7_029.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U7_029.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U7_ACT05",
@@ -1598,8 +1545,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U7_029.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U7_029.mp3"
                         }]
                     },
                     "28": {
@@ -1673,8 +1619,7 @@ manifest = {
                                 "content": ["a Waleed is sick. (He has a stomachache and feels sick.) ", "a The woman is probably Waleed’s mother. (She isn’t the doctor, because she mentions taking Waleed to the doctor if he doesn’t feel better. She is probably not Waleed’s friend as she is looking after Waleed as an adult would – offering rational reassurance and treatments.)"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U7_030.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U7_030.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U7_ACT05",
@@ -1684,8 +1629,7 @@ manifest = {
                                 "content": ["appendicitis ", "stomachache and he feels sick", "food poisoning ", "stay in bed, drink herbal tea, and if the symptoms persist the next day, they’ll go to the doctor"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U7_030.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U7_030.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U7_ACT06",
@@ -1722,8 +1666,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U7_030.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U7_030.mp3"
                         }]
                     },
                     "30": {
@@ -1739,8 +1682,7 @@ manifest = {
                                 "content": ["1950 ", "Riyadh ", "public and private ", "to provide rural areas with health care and to keep high standards in specialist hospitals"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U7_033.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U7_033.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U7_ACT02",
@@ -1768,8 +1710,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U7_033.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U7_033.mp3"
                         }]
                     }
                 }
@@ -1838,8 +1779,7 @@ manifest = {
                                 "content": ["Job: interesting and well-paid – F ", "Courses of study: interesting and challenging – W ", "Neighbourhood: clean and quiet – W ", "Family: living very close to Luke – W"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U8_034.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U8_034.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U8_ACT02",
@@ -1849,8 +1789,7 @@ manifest = {
                                 "content": ["No, Luke isn’t completely satisfied with his life because he told Edward that nothing’s perfect in life. ", "We can infer that Luke lives in the city because he lives in an apartment building, in a dirty, noisy area where there is a lot of traffic.", "No, Luke lives very far away from the West Coast. We can infer it because he says he’s far away from his family and that his family is on the West Coast."]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U8_034.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U8_034.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U8_ACT03",
@@ -1884,8 +1823,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U8_034.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U8_034.mp3"
                         }]
                     },
                     "33": {
@@ -1933,8 +1871,7 @@ manifest = {
                                 "content": ["If I were <u>you</u>, <u>I’d</u> say <u>no</u>.", "I’d <u>ask</u> my <u>teacher</u> if I didn’t <u>know</u> the answer.", "If I had <u>time</u>, <u>I’d</u> <u>go</u> on a <u>long</u> holiday.", "<u>Where</u> would you <u>live</u> if you had a <u>choice</u>?"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U8_035.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U8_035.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U8_ACT07",
@@ -1963,8 +1900,7 @@ manifest = {
                                 "content": ["Omar Khayyam ", "Al-Battani ", "Al-Khwarizmi", "Al-Khwarizmi ", "Omar Khayyam ", "Al-Khwarizmi"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_U8_036.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_U8_036.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_U8_ACT03",
@@ -1977,8 +1913,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_U8_036.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_U8_036.mp3"
                         }]
                     }
                 }
@@ -2042,8 +1977,7 @@ manifest = {
                                 "content": ["often ", "sister ", "careful ", "nice bag ", "markets", "colourful ", "last week ", "ring"]
                             }, {
                                 "type": "audio",
-                                "file": "audio/FHSA_PB_L1_PT2_037.mp3",
-                                "srt": "audio/srt/"
+                                "file": "audio/FHSA_PB_L1_PT2_037.mp3"
                             }]
                         }, {
                             "id": "FHSA_PB_L1_PT3_ACT03",
@@ -2052,8 +1986,7 @@ manifest = {
                         }],
                         "assets": [{
                             "type": "audio",
-                            "file": "audio/FHSA_PB_L1_PT2_037.mp3",
-                            "srt": "audio/srt/"
+                            "file": "audio/FHSA_PB_L1_PT2_037.mp3"
                         }]
                     }
                 }
